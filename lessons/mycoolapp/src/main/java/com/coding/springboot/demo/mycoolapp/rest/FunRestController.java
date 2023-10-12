@@ -17,5 +17,8 @@ public class FunRestController {
         return "Hello World";
     }
 
-
+    @PostMapping("/rest")
+    public Employee createEmployee(@RequestBody int number) {
+        return number;
+    }
 }
