@@ -9,6 +9,7 @@ body {
     font-family: sans-serif;
 
     border-top: 10px dotted #1098ad;
+    position: relative;
 }
 
 .container {
@@ -181,4 +182,25 @@ a:active {
 .post-img {
     width: 50%;
     height:auto;
+}
+
+nav a:link {
+    margin-right: 30px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+/* Since there is no space on the right of the last element, it is therefore not needed */
+nav a:link:last-child {
+    margin-right: 0px;
+}
+
+button {
+    font-size: 22px;
+    padding:20px;
+    cursor:pointer;
+
+    position: absolute;
+    bottom: 50px;
+    right:50px;
 }
