@@ -21,5 +21,20 @@ Hello Fellow Viewer! Hopefully you want to understand what courses I have starte
 |------------------------------------------------|----------|------------|------------------------------------------------------------------------------------------------------------------------------|
 | Postman Fundamentals | Coursera | 2 hours | [Link](https://www.coursera.org/projects/start-your-api-testing-journey-with-postman-tool ) |
 | Learning Express.js | Youtube | 8 hours | [Link](https://www.youtube.com/watch?v=nH9E25nkk3Ihttps://www.youtube.com/watch?v=nH9E25nkk3I ) |
-| Learning Express.js by itself | Udemy | [Link](https://www.youtube.com/watch?v=nH9E25nkk3Ihttps://www.youtube.com/watch?v=nH9E25nkk3I ) |
+| Learning Express.js by itself | Udemy | 14.5 hours | [Link](https://www.youtube.com/watch?v=nH9E25nkk3Ihttps://www.youtube.com/watch?v=nH9E25nkk3I ) |
+| Learning Flask for Backend Development | Udemy | 20 hours | [Link](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/?couponCode=KEEPLEARNING) |
+| MongoDB SQL Atlas Bootcamp | Coursera | 15 hours | [Link](https://www.coursera.org/learn/introduction-to-mongodb) |
+
+## AI & ML Dev Courses
+| Course                                         | Platform | Total Time | Link                                                                                                                         |
+|------------------------------------------------|----------|------------|------------------------------------------------------------------------------------------------------------------------------|
+| Open Source Models with HuggingFace | DeepLearning.ai | 1 hours | [Link](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/) |
+| ChatGPT Prompt Engineering | DeepLearning.ai | 1 hours | [Link]([https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction)) |
+| Mixstral AI | DeepLearning.ai | 1 hours | [Link](https://learn.deeplearning.ai/courses/getting-started-with-mistral/lesson/1/introduction) |
+| Data Analysis and Visualization | Udemy | 20 hours | [Link](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/learn/lecture/2338236#overview) |
+| IBM AI Engineering | Coursera | 94 hours | [Link](https://www.coursera.org/professional-certificates/ai-engineer) |
+| Data Science Training Bootcamp | Udemy | 94 hours | [Link](https://www.udemy.com/course/data-science-machine-learningtheoryprojectsa-z-90-hours/learn/lecture/23376038#overview) |
+| Learning Transformers with HuggingFace | O'Rielly | UND | Paper Textbook |
+| Learning NLP (Natural Language Processing) | O'Rielly | UND | Paper Textbook |
+
 
