@@ -29,7 +29,7 @@ Hello Fellow Viewer! Hopefully you want to understand what courses I have starte
 | Course                                         | Platform | Total Time | Link                                                                                                                         |
 |------------------------------------------------|----------|------------|------------------------------------------------------------------------------------------------------------------------------|
 | Open Source Models with HuggingFace | DeepLearning.ai | 1 hours | [Link](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/) |
-| ChatGPT Prompt Engineering | DeepLearning.ai | 1 hours | [Link]([https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction)) |
+| ChatGPT Prompt Engineering | DeepLearning.ai | 1 hours | [Link](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction) |
 | Mixstral AI | DeepLearning.ai | 1 hours | [Link](https://learn.deeplearning.ai/courses/getting-started-with-mistral/lesson/1/introduction) |
 | Data Analysis and Visualization | Udemy | 20 hours | [Link](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/learn/lecture/2338236#overview) |
 | IBM AI Engineering | Coursera | 94 hours | [Link](https://www.coursera.org/professional-certificates/ai-engineer) |
