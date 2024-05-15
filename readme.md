@@ -1,4 +1,4 @@
-Hello Fellow Viewer! Hopefully you want to understand what courses I have started, here they are!:
+Hello Fellow Viewer! Hopefully you want to understand what courses I have started and completed, here they are!
 
 
 ## Frontend Web-Development Courses
