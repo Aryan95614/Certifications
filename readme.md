@@ -32,6 +32,7 @@ Hello Fellow Viewer! Hopefully you want to understand what courses I have starte
 | ChatGPT Prompt Engineering | DeepLearning.ai | 1 hours | [Link](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction) |
 | Mixstral AI | DeepLearning.ai | 1 hours | [Link](https://learn.deeplearning.ai/courses/getting-started-with-mistral/lesson/1/introduction) |
 | Data Analysis and Visualization | Udemy | 20 hours | [Link](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/learn/lecture/2338236#overview) |
+| Machine Learning with Pytorch and Scikit-learn | O'Rielly | UND | Paper Textbook |
 | IBM AI Engineering | Coursera | 94 hours | [Link](https://www.coursera.org/professional-certificates/ai-engineer) |
 | Improve Deep Learning Fundamentals | Coursera | 120 hours | [Link](https://www.coursera.org/specializations/deep-learning)
 | Learning Transformers with HuggingFace | O'Rielly | UND | Paper Textbook |
