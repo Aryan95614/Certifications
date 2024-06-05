@@ -38,4 +38,5 @@ Hello Fellow Viewer! Hopefully you want to understand what courses I have starte
 | Learning Transformers with HuggingFace | O'Rielly | UND | Paper Textbook |
 | Learning NLP (Natural Language Processing) | O'Rielly | UND | Paper Textbook |
 
+There are many other courses that I am doing as well. 
 
