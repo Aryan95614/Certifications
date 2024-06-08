@@ -1,24 +1,52 @@
 
-// here num is a variable that stores the number 5
+// num is a variable that stores a 5
 let num = 5;
 
-// Declaring Variables
+/*
+
+var and let are two different keywords for declaring variables
+
+*/
+
+// They merely exist, no value is assigned for now
 var age;
 let name;
 
-/*
- The var is used in older versions of Javascript. 
+// It is better to assign variables right away
+
+// Example 1: declare variable num1 and assign 5 to it
+let num1 = 5;
+
+// Example 2: declare variable num2 and assign 6 to it
+let num2 = 6;
+
+// Variables are named as such as they vary
+
+let score = 5;
+console.log(score); // It will print 5
+
+// you can change the variable 
+score = 3;
+console.log(score); // It will print 3
 
 
- Variables created with var are function-scoped, meaning they can be accessed wherever in the function, but no where else.
+// Declaring multiple variables
+let num3 = 5, num4 = 6, num5 = 7;
 
- --
+// Valid naming conventions:
+let message = "hello";
+let _message = "hello";
+let $message = "hello";
 
- let is the new way of declaring variables, starting with ES6 (ES2015)
+// Using case-sensative conventions
+let age = 23
+let Age = 20
 
- Variables declared with let are block-scoped, meaning they can be accessed within the block in which they are declared
+console.log(age); // output: 23
+console.log(Age); // output: 20
 
+// const variables are memory stores that do not change
 
- NTB: It is recommended to use let as it has more browser support.
-*/
+const x = 5; // You have to declare the const and the value in here
 
+console.log(x);
