@@ -1,6 +1,6 @@
 Hello Fellow Viewer! Hopefully you want to understand what courses I have started and completed, here they are!
 
-[This is going to be updated!]
+[This is going to be updated a lot!]
 
 ## Frontend Web-Development Courses
 
